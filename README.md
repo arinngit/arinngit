@@ -1,8 +1,9 @@
 ![Header](https://github.com/arinngit/arinngit/blob/main/assets/Guts%20berserk.jpg)
 
-## Fullstack Developer specializing in modern web and mobile apps 
+## Fullstack Developer specializing in modern web and mobile apps
 
 ### Languages and Tools
+
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
@@ -28,4 +29,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 
-Links
+### Links
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykhan-hagverdiev-914b66374/)
