@@ -1,4 +1,4 @@
-![Header](https://github.com/arinngit/arinngit/blob/main/assets/Berserk.jpg)
+![Header](https://github.com/arinngit/arinngit/blob/main/assets/Guts%20berserk.jpg)
 
 About me
 
