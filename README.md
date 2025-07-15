@@ -33,4 +33,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykhan-hagverdiev-914b66374/)
 
+### Github Stats
+
 [![Ayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arinngit&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/arinngit)
